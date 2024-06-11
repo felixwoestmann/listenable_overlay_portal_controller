@@ -1,0 +1,20 @@
+name: listenable_overlay_portal_controller
+description: "Making OverlayPortalController listenable."
+version: 1.0.0
+homepage: https://github.com/felixwoestmann/listenable_overlay_portal_controller
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+
